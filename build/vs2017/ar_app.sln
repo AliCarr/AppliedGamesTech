@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ar_app", "ar_app.vcxproj", "{C5733C16-E744-4E3F-BF7F-337BB1EA1F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|PSVita = Debug|PSVita
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|PSVita = Release|PSVita
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5733C16-E744-4E3F-BF7F-337BB1EA1F78}.Debug|PSVita.ActiveCfg = Debug|PSVita
+		{C5733C16-E744-4E3F-BF7F-337BB1EA1F78}.Debug|PSVita.Build.0 = Debug|PSVita
+		{C5733C16-E744-4E3F-BF7F-337BB1EA1F78}.Debug|x64.ActiveCfg = Debug|PSVita
+		{C5733C16-E744-4E3F-BF7F-337BB1EA1F78}.Debug|x86.ActiveCfg = Debug|PSVita
+		{C5733C16-E744-4E3F-BF7F-337BB1EA1F78}.Release|PSVita.ActiveCfg = Release|PSVita
+		{C5733C16-E744-4E3F-BF7F-337BB1EA1F78}.Release|PSVita.Build.0 = Release|PSVita
+		{C5733C16-E744-4E3F-BF7F-337BB1EA1F78}.Release|x64.ActiveCfg = Release|PSVita
+		{C5733C16-E744-4E3F-BF7F-337BB1EA1F78}.Release|x86.ActiveCfg = Release|PSVita
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2997AA49-C4F5-48E8-89F3-9EAA7D18E908}
+	EndGlobalSection
+EndGlobal
